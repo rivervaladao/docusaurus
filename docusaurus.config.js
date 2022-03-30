@@ -121,8 +121,8 @@ const config = {
 
     }),
     i18n: {
-      defaultLocale: 'en',
-      locales: ['en', 'pt'],
+      defaultLocale: 'pt',
+      locales: ['en', 'pt','es'],
     },
 };
 
