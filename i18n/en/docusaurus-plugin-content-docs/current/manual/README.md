@@ -1,3 +1,0 @@
-# Maxdoc
-
-![](./assets/processo.png)
